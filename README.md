@@ -16,4 +16,4 @@ Converts the following characters to HTML entities:
 
 ' → &apos;
 
-Prevents
+Prevents HTML injection issues by escaping special characters.
